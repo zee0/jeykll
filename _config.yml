@@ -1,1 +1,9 @@
 permalink: pretty
+
+# make everything in _posts have layout: post
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
