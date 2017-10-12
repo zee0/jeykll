@@ -1,3 +1,5 @@
+theme: minima
+
 permalink: pretty
 
 # make everything in _posts have layout: post
