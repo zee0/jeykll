@@ -7,5 +7,4 @@ tags:
 ---
 
 # so it begins
-```markdown
-so i've decided to take my work back underground - to stop it from falling into the wrong hands.
+```so i've decided to take my work back underground - to stop it from falling into the wrong hands.
