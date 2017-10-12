@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body {font-size: 1.25em; margin: 0 auto; width: 85%;}
+a {text-decoration:none;}
+#settings {position: absolute; top: 0; right: 1em;}
+#settings p {margin: 0; padding: 0; text-align: center;}
+#settings img {cursor: pointer; display: block; height: 5em; margin: 0 auto;}
+.hide {margin-top: -3.5em;}
+.show {margin-top: 0;}
+.show, .hide {
+    /* we specify the transition length for hiding and showing */
+	transition: margin-top .4s ease-in;
+	-webkit-transition: margin-top .4s ease-in;
+}
+header p {font-size: 2em;}
+article h1 {font-size: 1.5em;}
+article p {text-align: justify;}
