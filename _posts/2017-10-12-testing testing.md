@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogging Like a Hacker
-date:
+date: 2017-10-12 09:24:01 -0400
 categories:
 tags:
 ---
