@@ -2,7 +2,7 @@
 ---
 
 <!-- adapted from https://www.chimneysweeponline.com/homillends.htm which doesn't look long for this world. -->
-#Burning Scrap Wood in a Wood Stove
+# Burning Scrap Wood in a Wood Stove
 
 Very little has been written about burning dimensional lumber (mill ends and pallet wood), and we know of no official study or laboratory testing that has been performed on the subject. Our opinion about burning dimensional lumber originally derived from repeated experiences by our customers with premature stove and chimney damage over the years, where burning mill ends or wood from broken-down pallets was the only common denominator. The extent of this damage ranged from "shaling" (where flakes of metal peel off internal stove components) to extreme warping, and even big holes eaten right through heavy steel baffle plates and stainless chimney liners. At first, we had no idea why dimensional lumber would cause this problem, but over time we've come to believe that the issue with burning mill ends and pallet wood has to do with the combination of the higher temperatures achieved in today's EPA-approved woodstoves and some of the chemicals even "untreated" dimensional lumber might contain.
 Wood exhaust is acidic, containing carboxylic acids and phenols which eat slowly but steadily away at stoves, stovepipes and chimneys. When a component is said to have"burned out," what has actually happened is that the acids in the wood exhaust have finally eaten through. When additional chemicals are added to the natural acids in the wood exhaust, the rate of corrosion can increase exponentially.
@@ -11,7 +11,7 @@ Here in the Pacific Northwest and in other coastal areas, one of those chemicals
 
 As it happens, dimensional lumber may also contain salt. In coastal areas, the most economical way to transport logs is via log boom: the logs are floated in the ocean, harnessed in a big loop made of chained-together logs, and towed by tugboat to the mills.
 
-![Tug boat pushing a log raft near Vancouver (May 2012)] (https://upload.wikimedia.org/wikipedia/commons/f/f6/Tug_boat_pushing_log_raft_near_Vancouver.jpg)
+![Tug boat pushing a log raft near Vancouver (May 2012)](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tug_boat_pushing_log_raft_near_Vancouver.jpg)
 Tug boat pushing a log raft near Vancouver (May 2012)
 
 Immersion in salt water results not only in a coating of salt on each log, but also in absorption of dissolved salt crystals deep into the wood fiber.
@@ -24,7 +24,7 @@ Another source of chemical content in dimensional lumber is the use of fungicide
 It should be reiterated here that the above list includes chemicals that might be found in untreated dimensional lumber. For example, most inland mills don't start with logs that have had a saltwater bath: many mills have not yet adopted the "dry kilning" method, and don't soak their logs with PEG-1000: not all furniture-grade lumber has been treated with oxalic acid, and not all mills dip their lumber in fungicides. The problem is, you can't tell if a truckload of mill ends contains any of these chemicals by looking at it, and the woodseller who's delivering it isn't likely to know either.
 So, let's say your Uncle Walt has a woodlot up in the hills, where he harvests his own wood, cuts it up into dimensional lumber using nothing but dishwasher soap for blade lubricant, and dries it in his own kiln without treating it with any chemicals whatsoever. Would mill ends from Uncle Walt's operation be good to burn? Possibly not. Wood that has been through the kilning process is much dryer than air-seasoned fuelwood, which causes it to burn at extremely high temperatures. If not kept carefully under control, a dimensional lumber fire can quickly achieve temperatures high enough to damage the stove. While it is true, as you mention, that some woodstove manufacturers don't specifically forbid burning mill ends and pallet wood in their owner's manuals, it is also true that most do prohibit overfiring, often citing it as grounds to void the warranty. Another precaution against burning too-dry fuelwood comes from the US Department of Energy website: "Some well-seasoned wood can in fact be too dry for today's airtight stoves. If you place wood that is too dry on a bed of coals, it will instantly give up its gases as smoke, wasting unburned smoke and producing creosote buildup."
 
-##References:
-[Lubricating Band Mill Blades] (http://www.woodweb.com/knowledge_base/Lubricating_band_mill_blades.html)
-[Using PEG for Dimensional Stability] (http://www.woodweb.com/knowledge_base/Using_PEG_for_dimensional_stability.html)
-[Application of Sapstain Chemicals] (http://www.pharosproject.net/blog/detail/id/130)
+## References:
+[Lubricating Band Mill Blades](http://www.woodweb.com/knowledge_base/Lubricating_band_mill_blades.html)
+[Using PEG for Dimensional Stability](http://www.woodweb.com/knowledge_base/Using_PEG_for_dimensional_stability.html)
+[Application of Sapstain Chemicals](http://www.pharosproject.net/blog/detail/id/130)
