@@ -25,6 +25,6 @@ It should be reiterated here that the above list includes chemicals that might b
 So, let's say your Uncle Walt has a woodlot up in the hills, where he harvests his own wood, cuts it up into dimensional lumber using nothing but dishwasher soap for blade lubricant, and dries it in his own kiln without treating it with any chemicals whatsoever. Would mill ends from Uncle Walt's operation be good to burn? Possibly not. Wood that has been through the kilning process is much dryer than air-seasoned fuelwood, which causes it to burn at extremely high temperatures. If not kept carefully under control, a dimensional lumber fire can quickly achieve temperatures high enough to damage the stove. While it is true, as you mention, that some woodstove manufacturers don't specifically forbid burning mill ends and pallet wood in their owner's manuals, it is also true that most do prohibit overfiring, often citing it as grounds to void the warranty. Another precaution against burning too-dry fuelwood comes from the US Department of Energy website: "Some well-seasoned wood can in fact be too dry for today's airtight stoves. If you place wood that is too dry on a bed of coals, it will instantly give up its gases as smoke, wasting unburned smoke and producing creosote buildup."
 
 ## References:
-[Lubricating Band Mill Blades](http://www.woodweb.com/knowledge_base/Lubricating_band_mill_blades.html)
-[Using PEG for Dimensional Stability](http://www.woodweb.com/knowledge_base/Using_PEG_for_dimensional_stability.html)
-[Application of Sapstain Chemicals](http://www.pharosproject.net/blog/detail/id/130)
+[Lubricating Band Mill Blades](http://www.woodweb.com/knowledge_base/Lubricating_band_mill_blades.html)  
+[Using PEG for Dimensional Stability](http://www.woodweb.com/knowledge_base/Using_PEG_for_dimensional_stability.html)  
+[Application of Sapstain Chemicals](http://www.pharosproject.net/blog/detail/id/130)  
